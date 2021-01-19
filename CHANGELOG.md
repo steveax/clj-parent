@@ -1,5 +1,7 @@
 ## [Unreleased]
 
+- update ring dependencies to latest which brings in an update to commons-fileupload that resolves two CVEs.
+
 ## [4.6.10]
 
  - update jruby-utils to 3.2.1 bringing in JRuby 9.2.14.0, a minor update that resolves a webrick CVE.
